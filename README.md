@@ -26,11 +26,11 @@
 
 <!--Intro start-->
 
-- 🔭 **I’m currently working on C, C++, JS, PHP,Python,C#** 
+- 🔭 **I Loves to MERN Stack Development (MongoDB, Express, React, and Node.js)** 
 
-- 🌱 I’m currently learning **new updates on the industry**
+- 🌱 **I embrace daily learning to keep pace with the rapidly evolving MERN stack development**
 
-- 👀 I’m interested in **software development** and **web development** special **Ethical Hacking** and also **networking**
+- 👀 **I’m interested in **web development** and **software development** special **Ethical Hacking** and also **networking****
 
 - 📝 I regularly write articles on [Facbook](https://web.facebook.com/profile.php?id=61551565453767)
 
